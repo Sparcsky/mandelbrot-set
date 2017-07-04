@@ -7,6 +7,6 @@ The Mandelbrot set is a famous example of a fractal in mathematics. It is named 
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
- [![solarized dualmode](https://github.com/Sparcsky/mandelbrot-set/blob/master/img.jpg)](#features)
+ ![solarized dualmode](https://github.com/Sparcsky/mandelbrot-set/blob/master/img.jpg)](#features)
 
 </p>
